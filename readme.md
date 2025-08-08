@@ -11,8 +11,9 @@ This is the collection of all the MLJC meeting materials
 - Ai2 Climate Emulator and Green's Function **(Andy Liu)**
   - Paper (Van Loon et al., 2025): <https://arxiv.org/pdf/2502.10893>
   - Slide: [Reanalysis-based Global Radiative Response to Sea Surface Temperature Patterns_ Evaluating the Ai2 Climate Emulator.pdf](<Spring 2025/Reanalysis-based Global Radiative Response to Sea Surface Temperature Patterns_ Evaluating the Ai2 Climate Emulator.pdf>)
-  - Additional Paper, Green's Function MIP (Bloch-Johnson et al, 2024): <https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023MS003700>
-  - Additional Paper, ACE2+E3SM (Wu et al., 2025): <https://arxiv.org/pdf/2505.08742>
+  - Additional Paper:
+    - Green's Function MIP (Bloch-Johnson et al, 2024): <https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023MS003700>
+    - ACE2+E3SM (Wu et al., 2025): <https://arxiv.org/pdf/2505.08742>
 
 ### Winter 2025
 
