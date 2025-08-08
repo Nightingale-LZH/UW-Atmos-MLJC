@@ -4,11 +4,17 @@ Department of Atmospheric and Climate Science at the University of Washington
 
 This is the collection of all the MLJC meeting materials. [Website Link](<https://nightingale-lzh.github.io/UW-Atmos-MLJC/>)
 
+(Thanks, Dominik)
+
 ## Paper Reviews
 
 ### Spring 2025
 
-- Ai2 Climate Emulator and Green's Function **(Andy Liu)**
+- Spherical Fourier Neural Operators: Learning Stable Dynamics on the Sphere
+  - `Lead`: **Will Yik**, April 29
+  - `Paper` (Bonev et al., 2023): <https://proceedings.mlr.press/v202/bonev23a/bonev23a.pdf>
+- Reanalysis-based Global Radiative Response to Sea Surface Temperature Patterns: Evaluating the Ai2 Climate Emulator
+  - `Lead`: **Andy Liu**, May 13
   - `Paper` (Van Loon et al., 2025): <https://arxiv.org/pdf/2502.10893>
   - `Slide`: [Reanalysis-based Global Radiative Response to Sea Surface Temperature Patterns_ Evaluating the Ai2 Climate Emulator.pdf](<Spring 2025/Reanalysis-based Global Radiative Response to Sea Surface Temperature Patterns_ Evaluating the Ai2 Climate Emulator.pdf>)
   - Additional Paper:
@@ -19,7 +25,8 @@ This is the collection of all the MLJC meeting materials. [Website Link](<https:
 
 ### Autumn 2024
 
-- Evidential Deep Learning **(Elliot Kim, Andy Liu)**
+- Evidential Deep Learning: Enhancing Predictive Uncertainty Estimation for Earth System Science Applications
+  - `Lead`: **Elliot Kim, Andy Liu**, November 9
   - `Paper` (Schreck et al. 2024): <https://doi.org/10.1175/AIES-D-23-0093.1>
   - `Slide`: [MLJC_ Evidential DL (110924).pdf](<Autumn 2024/MLJC_ Evidential DL (110924).pdf>)
 
@@ -27,14 +34,18 @@ This is the collection of all the MLJC meeting materials. [Website Link](<https:
 
 ### Summer 2025
 
-- Transformer **(Elliot Kim, Andy Liu)**
-  - `Workshop`: <https://github.com/eliotjkim/mljc-transformers-workshop>
+- Transformer
+  - `Lead`: **Elliot Kim, Andy Liu**, June 27
+  - `Repo`: <https://github.com/eliotjkim/mljc-transformers-workshop>
+  - `Slide`: [2025-06-27_Workshop_Transformers.pdf](<Summer 2025/2025-06-27_Workshop_Transformers.pdf>)
   - Other Resources
     - <https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html>
     - <https://web.stanford.edu/~jurafsky/slp3/9.pdf>
     - <https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Transformers>
-- Auto-Encoder **(Eric Mei, Dominik Stiller)**
-  - `Workshop`: <https://github.com/DominikStiller/mljc-autoencoder-workshop> 
+- Auto-Encoder
+  - `Lead`: **Eric Mei, Dominik Stiller**, August 6
+  - `Repo`: <https://github.com/DominikStiller/mljc-autoencoder-workshop> 
+  - `Slide`: [2025-08-06_Workshop_Autoencoders.pdf](<Summer 2025/2025-08-06_Workshop_Autoencoders.pdf>)
 
 ## By Topics
 
@@ -48,7 +59,8 @@ This is the collection of all the MLJC meeting materials. [Website Link](<https:
 
 ### Emulator
 
-- `[Spring 2025]` Ai2 Climate Emulator and Green's Function: <https://arxiv.org/pdf/2502.10893>
+- `[Spring 2025]` Ai2 Climate Emulator: <https://arxiv.org/pdf/2502.10893>
+- `[Spring 2025]` Spherical Fourier Neural Operators: <https://proceedings.mlr.press/v202/bonev23a/bonev23a.pdf>
 
 ### Other
 
