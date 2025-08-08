@@ -53,7 +53,3 @@ This is the collection of all the MLJC meeting materials
 ### Other
 
 - `[Autumn 2024]` Evidential Deep Learning: <https://doi.org/10.1175/AIES-D-23-0093.1>
-
-## Bookkeepping
-
-- Use this website to convert current markdown file to HTML page: <https://convertmarkdowntohtml.com>
