@@ -2,7 +2,9 @@
 
 Department of Atmospheric and Climate Science at the University of Washington
 
-This is the collection of all the MLJC meeting materials. [Website Link](<https://nightingale-lzh.github.io/UW-Atmos-MLJC/>)
+This is the collection of all the MLJC meeting materials. 
+- [Website Link](<https://nightingale-lzh.github.io/UW-Atmos-MLJC/>)
+- [GitHub Link](<https://github.com/Nightingale-LZH/UW-Atmos-MLJC>)
 
 (Thanks, Dominik)
 
