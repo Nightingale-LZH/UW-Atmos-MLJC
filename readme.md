@@ -20,7 +20,7 @@ This is the collection of all the MLJC meeting materials.
 ### Spring 2025
 
 - A foundation model for the Earth system
-  - `Leads`: **Elliot Kim**, May 26
+  - `Leads`: **Eliot Kim**, May 26
   - `Paper`: Bodnar et al. (2025): <https://www.nature.com/articles/s41586-025-09005-y>
 - Reanalysis-based Global Radiative Response to Sea Surface Temperature Patterns: Evaluating the Ai2 Climate Emulator
   - `Leads`: **Andy Liu**, May 13
@@ -51,7 +51,7 @@ This is the collection of all the MLJC meeting materials.
 ### Autumn 2024
 
 - Evidential Deep Learning: Enhancing Predictive Uncertainty Estimation for Earth System Science Applications
-  - `Leads`: **Elliot Kim, Andy Liu**, November 19
+  - `Leads`: **Eliot Kim, Andy Liu**, November 19
   - `Paper`: Schreck et al. (2024): <https://doi.org/10.1175/AIES-D-23-0093.1>
   - `Slides`: [MLJC_ Evidential DL (110924).pdf](<Autumn 2024/MLJC_ Evidential DL (110924).pdf>)
 - A Review of Machine Learning for Convective Weather
@@ -78,6 +78,30 @@ This is the collection of all the MLJC meeting materials.
 - Learning skillful medium-range global weather forecasting
   - `Leads`: **Dominik Stiller**, May 3
   - `Paper`: Lam et al. (2023): <https://www.science.org/doi/10.1126/science.adi2336>
+
+### Winter 2024
+
+- Data-driven predictions of the time remaining until critical global warming thresholds are reached
+  - `Leads`: **Aodhan Sweeney**, March 6
+  - `Paper`: Diffenbaugh and Barnes (2023): <https://doi.org/10.1073/pnas.2207183120>
+- Model scale versus domain knowledge in statistical forecasting of chaotic systems
+  - `Leads`: **Miles Epstein**, February 21
+  - `Paper`: Gilpin (2023): <https://doi.org/10.1103/PhysRevResearch.5.043252>
+- Limitations of XAI Methods for Process-Level Understanding in the Atmospheric Sciences
+  - `Leads`: **Eric Mei**, February 7
+  - `Paper`: Silva and Keller(2024): <https://doi.org/10.1175/AIES-D-23-0045.1>
+- Global Extreme Heat Forecasting Using Neural Weather Models
+  - `Leads`: **Raúl Moreno**, January 24
+  - `Paper`: Lopez-Gomez et al. (2023): <https://doi.org/10.1175/AIES-D-22-0035.1>
+
+### Autumn 2023
+
+- Predicting Slowdowns in Decadal Climate Warming Trends With Explainable Neural Networks
+  - `Leads`: **Anna Hall**, November 28
+  - `Paper`: Labe and Barnes (2022): <https://doi.org/10.1029/2022GL098173>
+- Deep learning and process understanding for data-driven Earth system science
+  - `Leads`: **Dominik Stiller**, October 31
+  - `Paper`: Reichstein et al. (2019): <https://doi.org/10.1038/s41586-019-0912-1>
 
 ## Workshops / Book Reading
 
@@ -150,7 +174,7 @@ This is the collection of all the MLJC meeting materials.
 - `[Winter 2025]` Score-Based Generative Model Derivation: <https://youtu.be/HoKDTa5jHvg?si=ZnEdaS2-gSCRnDTO>
 - `[Spring 2025]` Dynamical-generative downscaling: <https://arxiv.org/pdf/2410.01776>
 
-### Foundational Model
+### Foundation Model
 
 - `[Spring 2025]` A foundation model for the Earth system: <https://www.nature.com/articles/s41586-025-09005-y>
 
