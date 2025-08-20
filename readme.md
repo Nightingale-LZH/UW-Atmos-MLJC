@@ -47,13 +47,14 @@ This is the collection of all the MLJC meeting materials.
 - WoFSCast: A machine learning model for predicting thunderstorms at watch-to-warning scales
   - `Leads`: **Miles Epstein**, January 15
   - `Paper`: Flora and Potvin (2024): <https://doi.org/10.22541/essoar.172574503.30734251/v1>
+  - `Slide`: [WoFSCast, A machine learning model for predicting thunderstorms at watch-to-warning scales.pdf](<Winter 2025/WoFSCast, A machine learning model for predicting thunderstorms at watch-to-warning scales.pdf>)
 
 ### Autumn 2024
 
 - Evidential Deep Learning: Enhancing Predictive Uncertainty Estimation for Earth System Science Applications
   - `Leads`: **Eliot Kim, Andy Liu**, November 19
   - `Paper`: Schreck et al. (2024): <https://doi.org/10.1175/AIES-D-23-0093.1>
-  - `Slides`: [MLJC_ Evidential DL (110924).pdf](<Autumn 2024/MLJC_ Evidential DL (110924).pdf>)
+  - `Slides`: [Evidential Deep Learning: Enhancing Predictive Uncertainty Estimation for Earth System Science Applications.pdf](<Autumn 2024/Evidential Deep Learning: Enhancing Predictive Uncertainty Estimation for Earth System Science Applications.pdf>)
 - A Review of Machine Learning for Convective Weather
   - `Leads`: **Alex Anderson-Frey**, November 5
   - `Paper`: McGovern et al. (2023): <https://doi.org/10.1175/AIES-D-22-0077.1>
@@ -87,6 +88,7 @@ This is the collection of all the MLJC meeting materials.
 - Model scale versus domain knowledge in statistical forecasting of chaotic systems
   - `Leads`: **Miles Epstein**, February 21
   - `Paper`: Gilpin (2023): <https://doi.org/10.1103/PhysRevResearch.5.043252>
+  - `Slide`: [Model scale versus domain knowledge in statistical forecasting of chaotic systems.pdf](<Winter 2024/Model scale versus domain knowledge in statistical forecasting of chaotic systems.pdf>)
 - Limitations of XAI Methods for Process-Level Understanding in the Atmospheric Sciences
   - `Leads`: **Eric Mei**, February 7
   - `Paper`: Silva and Keller(2024): <https://doi.org/10.1175/AIES-D-23-0045.1>
@@ -123,7 +125,7 @@ This is the collection of all the MLJC meeting materials.
 ### Summer 2024
 
 - Elements of Statistical Learning
-  - `Leads`:
+  - `Leads`: **All**
   - `Book`: Trevor Hastie, Robert Tibshirani, Jerome Friedman: <https://hastie.su.domains/ElemStatLearn/>
   - Additional Material: 
     - <https://cs229.stanford.edu/section/cs229-prob.pdf>
