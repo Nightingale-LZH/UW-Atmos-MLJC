@@ -124,6 +124,10 @@ This is the collection of all the MLJC meeting materials.
   - `Leads`: **Eric Mei, Dominik Stiller**, August 6
   - `Repo`: <https://github.com/DominikStiller/mljc-autoencoder-workshop> 
   - `Slides`: [2025-08-06_Workshop_Autoencoders.pdf](<Summer 2025/2025-08-06_Workshop_Autoencoders.pdf>)
+- Spherical Deep Learning
+  - `Leads`: **William Yik**, August 20
+  - `Repo`: <https://github.com/yikwill/mljc-spherical-ml-workshop>
+  - `Slides`: [2025-08-21_Workshop_Spherical_ML.pdf(<Summer 2025/2025-08-21_Workshop_Spherical_ML.pdf>) 
 
 ### Summer 2024
 
