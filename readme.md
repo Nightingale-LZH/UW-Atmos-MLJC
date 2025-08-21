@@ -127,7 +127,7 @@ This is the collection of all the MLJC meeting materials.
 - Spherical Deep Learning
   - `Leads`: **William Yik**, August 20
   - `Repo`: <https://github.com/yikwill/mljc-spherical-ml-workshop>
-  - `Slides`: [2025-08-21_Workshop_Spherical_ML.pdf(<Summer 2025/2025-08-21_Workshop_Spherical_ML.pdf>) 
+  - `Slides`: [2025-08-21_Workshop_Spherical_ML.pdf](<Summer 2025/2025-08-06_Workshop_Spherical_ML.pdf>)
 
 ### Summer 2024
 
