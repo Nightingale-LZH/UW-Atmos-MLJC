@@ -19,6 +19,7 @@ This is the collection of all the MLJC meeting materials.
 
 ### Tutorial
 
+- [A Recipe for Training Neural Networks](<https://karpathy.github.io/2019/04/25/recipe/>)
 - [Learning Machine Learning with Lorenz-96](<https://m2lines.github.io/L96_demo/intro.html#>)
 
 ### Library Docs
