@@ -4,14 +4,14 @@ Department of Atmospheric and Climate Science at the University of Washington
 
 This is the collection of all the MLJC meeting materials.
 
-- [Website Version](<https://nightingale-lzh.github.io/UW-Atmos-MLJC/>)
-- [GitHub Version](<https://github.com/Nightingale-LZH/UW-Atmos-MLJC>)
+- [Website Version](https://nightingale-lzh.github.io/UW-Atmos-MLJC/)
+- [GitHub Version](https://github.com/Nightingale-LZH/UW-Atmos-MLJC)
   
 ***
 
-- [MLJC Meetings](<readme.md>)
-- [Sort by Topics](<sort_by_topics.md>)
-- [**Resources**](<recources.md>)
+- [MLJC Meetings](./readme.md)
+- [Sort by Topics](./sort_by_topics.md)
+- [**Resources**](./recources.md)
 
 ***
 
