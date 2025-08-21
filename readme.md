@@ -12,6 +12,10 @@ This is the collection of all the MLJC meeting materials.
 
 ***
 
+| [Paper Reviews](./readme.md#paper-reviews) | [Workshops / Book Reading](./readme.md#workshops--book-reading) | [Watch Party](./readme.md#watch-party) |
+
+***
+
 ## Paper Reviews
 
 ### Summer 2025
