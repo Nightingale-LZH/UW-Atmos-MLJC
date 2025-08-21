@@ -1,8 +1,3 @@
----
-title: MLJC Topics
-layout: template
-filename: sort_by_topics.md
----
 # Machine-Learning Journal Club Meeting Collection
 
 Department of Atmospheric and Climate Science at the University of Washington

@@ -1,0 +1,10 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - readme.md
+  - recources.md
+  - sort_by_topics.md
+  
