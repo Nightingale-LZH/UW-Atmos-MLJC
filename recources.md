@@ -1,5 +1,7 @@
 ---
 title: MLJC Resources
+layout: template
+filename: recources.md
 ---
 # Machine-Learning Journal Club Meeting Collection
 

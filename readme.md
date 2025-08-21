@@ -1,5 +1,7 @@
 ---
 title: MLJC - UW ATMOS
+layout: template
+filename: readme.md
 ---
 # Machine-Learning Journal Club Meeting Collection
 
