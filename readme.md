@@ -132,6 +132,12 @@ This is the collection of all the MLJC meeting materials.
   - `Leads`: **William Yik**, August 20
   - `Repo`: <https://github.com/yikwill/mljc-spherical-ml-workshop>
   - `Slides`: [2025-08-21_Workshop_Spherical_ML.pdf](<Summer 2025/2025-08-20_Workshop_Spherical_ML.pdf>)
+- Distribution as Target
+  - `Leads`: **Miles Epstein**, September 18
+  - `Repo`: <https://github.com/milesepstein13/ml-distribution-workshop>
+  - `Slides`: [2025-09-18_Workshop-Distribution.pdf](<Summer 2025/2025-09-18_Workshop-Distribution.pdf>)
+
+
 
 ### Summer 2024
 
