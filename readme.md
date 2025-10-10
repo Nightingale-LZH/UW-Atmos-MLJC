@@ -18,6 +18,12 @@ This is the collection of all the MLJC meeting materials.
 
 ## Paper Reviews
 
+### Autumn 2025
+
+- The Impact of Internal Variability on Benchmarking Deep Learning Climate Emulators
+  - `Leads`: **Eric Mei**, October 17
+  - `Paper`: Lütjens et al. (2025): <https://doi.org/10.1029/2024MS004619>
+
 ### Summer 2025
 
 - BoltCast: Deep Learning for Medium-Range Lightning Prediction
