@@ -23,6 +23,7 @@ This is the collection of all the MLJC meeting materials.
 - The Impact of Internal Variability on Benchmarking Deep Learning Climate Emulators
   - `Leads`: **Eric Mei**, October 17
   - `Paper`: Lütjens et al. (2025): <https://doi.org/10.1029/2024MS004619>
+  - `Slides`: [The Impact of Internal Variability on Benchmarking Deep Learning Climate Emulators.pdf](<Autumn 2025/The Impact of Internal Variability on Benchmarking Deep Learning Climate Emulators.pdf>)
 
 ### Summer 2025
 
@@ -142,8 +143,6 @@ This is the collection of all the MLJC meeting materials.
   - `Leads`: **Miles Epstein**, September 18
   - `Repo`: <https://github.com/milesepstein13/ml-distribution-workshop>
   - `Slides`: [2025-09-18_Workshop-Distribution.pdf](<Summer 2025/2025-09-18_Workshop-Distribution.pdf>)
-
-
 
 ### Summer 2024
 
