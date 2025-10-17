@@ -22,7 +22,7 @@ This is the collection of all the MLJC meeting materials.
 - [A Recipe for Training Neural Networks](<https://karpathy.github.io/2019/04/25/recipe/>)
 - [Learning Machine Learning with Lorenz-96](<https://m2lines.github.io/L96_demo/intro.html#>)
 
-### Library Docs
+### Library, Documentation
 
 - [scikit-learn](<https://scikit-learn.org/stable/index.html>)
   - [User Guide](<https://scikit-learn.org/stable/user_guide.html>)
@@ -33,4 +33,9 @@ This is the collection of all the MLJC meeting materials.
   - [Learn](<https://www.tensorflow.org/learn>)
   - [Python Docs](<https://www.tensorflow.org/api_docs/python/tf>)
 
-More coming soon. Please email me any suggestions.
+More coming soon. Please email Andy any suggestions.
+
+## Paper for Future Meetings
+
+More coming soon. Please email Andy any suggestions.
+
