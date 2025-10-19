@@ -33,9 +33,11 @@ This is the collection of all the MLJC meeting materials.
   - [Learn](<https://www.tensorflow.org/learn>)
   - [Python Docs](<https://www.tensorflow.org/api_docs/python/tf>)
 
-More coming soon. Please email Andy any suggestions.
+Please email Andy any suggestions.
 
 ## Paper for Future Meetings
 
-More coming soon. Please email Andy any suggestions.
+- [Incorporating Multivariate Consistency in ML-Based Weather Forecasting with Latent-Space Constraints](<https://arxiv.org/pdf/2510.04006>)
+
+Please email Andy any suggestions.
 
