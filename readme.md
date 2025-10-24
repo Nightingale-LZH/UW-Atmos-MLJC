@@ -20,6 +20,9 @@ This is the collection of all the MLJC meeting materials.
 
 ### Autumn 2025
 
+- The Equilibrium Response of Atmospheric Machine-Learning Models to Uniform Sea Surface Temperature Warming
+  - `Leads`: **William Yik**, October 31
+  - `Paper`: Zhang and Merlis (2025): <https://doi.org/10.48550/arXiv.2510.02415>
 - The Impact of Internal Variability on Benchmarking Deep Learning Climate Emulators
   - `Leads`: **Eric Mei**, October 17
   - `Paper`: Lütjens et al. (2025): <https://doi.org/10.1029/2024MS004619>
