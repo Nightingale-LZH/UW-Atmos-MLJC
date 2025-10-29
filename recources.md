@@ -21,6 +21,8 @@ This is the collection of all the MLJC meeting materials.
 
 - [A Recipe for Training Neural Networks](<https://karpathy.github.io/2019/04/25/recipe/>)
 - [Learning Machine Learning with Lorenz-96](<https://m2lines.github.io/L96_demo/intro.html#>)
+- [Statistical Machine Learning with R](https://teazrq.github.io/SMLR/)
+  - This tutorial is written in R, but they provide many mathematical derivations of basic ML building blocks. No Neural Networks. 
 
 ### Library, Documentation
 
