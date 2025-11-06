@@ -20,9 +20,16 @@ This is the collection of all the MLJC meeting materials.
 
 ### Autumn 2025
 
+- Prototype-enhanced prediction in graph neural networks for climate applications
+  - `Leads`: **Andy Liu**, November 14
+  - `Paper`: Keshtmand et al. 2025: <https://arxiv.org/pdf/2504.17492v1>
+    - Supplement Paper:
+      - CNN model: <https://gmd.copernicus.org/articles/18/1661/2025/gmd-18-1661-2025.pdf>
+      - GNN model: <https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/neurips2023/74/paper.pdf> or [local mirror](<Autumn 2025/Fillola et al, 2023.pdf>)
 - The Equilibrium Response of Atmospheric Machine-Learning Models to Uniform Sea Surface Temperature Warming
   - `Leads`: **William Yik**, October 31
   - `Paper`: Zhang and Merlis (2025): <https://doi.org/10.48550/arXiv.2510.02415>
+  - `Slides`: [The Equilibrium Response of Atmospheric Machine-Learning Models to Uniform Sea Surface Temperature Warming](<Autumn 2025/The Equilibrium Response of Atmospheric Machine-Learning Models to Uniform Sea Surface Temperature Warming.pdf>)
 - The Impact of Internal Variability on Benchmarking Deep Learning Climate Emulators
   - `Leads`: **Eric Mei**, October 17
   - `Paper`: Lütjens et al. (2025): <https://doi.org/10.1029/2024MS004619>
