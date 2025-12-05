@@ -23,6 +23,9 @@ This is the collection of all the MLJC meeting materials.
 - Efficient high-dimensional variational data assimilation with machine-learned reduced-order models
   - `Leads`: **Eliot Kim**, Dec 5
   - `Paper`: Maulik et al. 2022: <https://doi.org/10.5194/gmd-15-3433-2022>
+  - `Slides`: [Efficient high-dimensional variational data assimilation with machine-learned reduced-order models](<Autumn 2025/Efficient high-dimensional variational data assimilation with machine-learned reduced-order models.pdf>)
+  - Supplements: 
+    - Continuous data assimilation for the IFS: <https://www.ecmwf.int/en/newsletter/158/meteorology/continuous-data-assimilation-ifs>
 - Prototype-enhanced prediction in graph neural networks for climate applications
   - `Leads`: **Andy Liu**, November 14
   - `Paper`: Keshtmand et al. 2025: <https://arxiv.org/pdf/2504.17492v1>
