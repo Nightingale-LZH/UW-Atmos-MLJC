@@ -24,6 +24,10 @@ This is the collection of all the MLJC meeting materials.
 - [Statistical Machine Learning with R](https://teazrq.github.io/SMLR/)
   - This tutorial is written in R, but they provide many mathematical derivations of basic ML building blocks. No Neural Networks. 
 
+### Specific Topics
+
+- [The most complex model we actually understand](https://youtu.be/D8GOeCFFby4)
+
 ### Library, Documentation
 
 - [scikit-learn](<https://scikit-learn.org/stable/index.html>)
