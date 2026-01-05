@@ -44,6 +44,7 @@ Please email Andy any suggestions.
 ## Paper for Future Meetings
 
 - [Incorporating Multivariate Consistency in ML-Based Weather Forecasting with Latent-Space Constraints](<https://arxiv.org/pdf/2510.04006>)
+- [Physically consistent global atmospheric data assimilation with machine learning in latent space](<https://www.science.org/doi/full/10.1126/sciadv.aea4248>)
 
 Please email Andy any suggestions.
 
