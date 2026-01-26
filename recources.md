@@ -45,6 +45,7 @@ Please email Andy any suggestions.
 
 - [Incorporating Multivariate Consistency in ML-Based Weather Forecasting with Latent-Space Constraints](<https://arxiv.org/pdf/2510.04006>)
 - [Physically consistent global atmospheric data assimilation with machine learning in latent space](<https://www.science.org/doi/full/10.1126/sciadv.aea4248>)
+- [Evaluating machine learning weather models for data assimilation: fundamental limitations in tangent linear and adjoint properties](<https://onlinelibrary.wiley.com/doi/abs/10.1029/2025GL119402>)
 
 Please email Andy any suggestions.
 
