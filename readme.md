@@ -22,6 +22,7 @@ This is the collection of all the MLJC meeting materials.
 - Neural general circulation models for modeling precipitation
   - `Leads`: **Dominik Stiller**, October 31
   - `Paper`: Yuval et al. 2026: <https://doi.org/10.1126/sciadv.adv6891>
+  - `Slides`: [Neural general circulation models for modeling precipitation](<Winter 2026/Neural general circulation models for modeling precipitation.pdf>)
 - Leveraging Data-Driven Weather Models for Improving Numerical Weather Prediction Skill through Large-Scale Spectral Nudging
   - `Leads`: **Geraint Webb**, Jan 16
   - `Paper`: Husain et al. 2025: <https://doi.org/10.1175/WAF-D-24-0139.1>
