@@ -23,13 +23,15 @@ This is the collection of all the MLJC meeting materials.
 - Global atmospheric data assimilation with multi-modal masked autoencoders
   - `Leads`: **August Posch**, Feb. 13
   - `Paper`: Vandal et al. 2024: <https://doi.org/10.48550/arXiv.2407.11696>
+  - `Slides`: [Global atmospheric data assimilation with multi-modal masked autoencoders](<Winter 2026/Global atmospheric data assimilation with multi-modal masked autoencoders.pdf>)
+- Leveraging Data-Driven Weather Models for Improving Numerical Weather Prediction Skill through Large-Scale Spectral Nudging
+  - `Leads`: **Geraint Webb**, Jan 16
+  - `Paper`: Husain et al. 2025: <https://doi.org/10.1175/WAF-D-24-0139.1>
 - Neural general circulation models for modeling precipitation
   - `Leads`: **Dominik Stiller**, Jan. 30
   - `Paper`: Yuval et al. 2026: <https://doi.org/10.1126/sciadv.adv6891>
   - `Slides`: [Neural general circulation models for modeling precipitation](<Winter 2026/Neural general circulation models for modeling precipitation.pdf>)
-- Leveraging Data-Driven Weather Models for Improving Numerical Weather Prediction Skill through Large-Scale Spectral Nudging
-  - `Leads`: **Geraint Webb**, Jan 16
-  - `Paper`: Husain et al. 2025: <https://doi.org/10.1175/WAF-D-24-0139.1>
+
 
 ### Autumn 2025
 
