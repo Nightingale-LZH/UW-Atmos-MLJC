@@ -32,7 +32,6 @@ This is the collection of all the MLJC meeting materials.
   - `Paper`: Yuval et al. 2026: <https://doi.org/10.1126/sciadv.adv6891>
   - `Slides`: [Neural general circulation models for modeling precipitation](<Winter 2026/Neural general circulation models for modeling precipitation.pdf>)
 
-
 ### Autumn 2025
 
 - Efficient high-dimensional variational data assimilation with machine-learned reduced-order models
