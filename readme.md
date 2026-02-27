@@ -20,6 +20,9 @@ This is the collection of all the MLJC meeting materials.
 
 ### Winter 2026
 
+- Long-Range Distillation: Distilling 10,000 Years of Simulated Climate into Long Timestep AI Weather Models
+  - `Leads`: **Raúl Moreno**, March 6
+  - `Paper`: Martin et al., 2025: <https://doi.org/10.48550/arXiv.2512.22814>
 - Global atmospheric data assimilation with multi-modal masked autoencoders
   - `Leads`: **August Posch**, Feb. 13
   - `Paper`: Vandal et al. 2024: <https://doi.org/10.48550/arXiv.2407.11696>
