@@ -23,6 +23,8 @@ This is the collection of all the MLJC meeting materials.
 - [Learning Machine Learning with Lorenz-96](<https://m2lines.github.io/L96_demo/intro.html#>)
 - [Statistical Machine Learning with R](https://teazrq.github.io/SMLR/)
   - This tutorial is written in R, but they provide many mathematical derivations of basic ML building blocks. No Neural Networks. 
+- [Neural Network Playground](<https://playground.tensorflow.org/>)
+  - Experimenting with NN classifications.
 
 ### Specific Topics
 
@@ -46,6 +48,7 @@ Please email Andy any suggestions.
 - [Incorporating Multivariate Consistency in ML-Based Weather Forecasting with Latent-Space Constraints](<https://arxiv.org/pdf/2510.04006>)
 - [Physically consistent global atmospheric data assimilation with machine learning in latent space](<https://www.science.org/doi/full/10.1126/sciadv.aea4248>)
 - [Evaluating machine learning weather models for data assimilation: fundamental limitations in tangent linear and adjoint properties](<https://onlinelibrary.wiley.com/doi/abs/10.1029/2025GL119402>)
+- [Deep Learning Parameterization of Vertical Wind Velocity Variability via Constrained Adversarial Training](<https://doi.org/10.1175/AIES-D-23-0025.1>)
 
 Please email Andy any suggestions.
 
