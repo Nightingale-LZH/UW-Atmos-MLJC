@@ -23,6 +23,7 @@ This is the collection of all the MLJC meeting materials.
 - Cluster Analysis of Northern Hemisphere Wintertime 500-hPa Flow Regimes during 1920–2014
   - `Leads`: **Angel Chui**, March 6
   - `Paper`: Bao and Wallace 2015: <https://doi.org/10.1175/JAS-D-15-0001.1>
+  - `Slides`: [Winter 2026/Cluster Analysis of Northern Hemisphere Wintertime 500-hPa Flow Regimes during 1920–2014](<Winter 2026/Cluster Analysis of Northern Hemisphere Wintertime 500-hPa Flow Regimes during 1920–2014.pdf>)
 - Long-Range Distillation: Distilling 10,000 Years of Simulated Climate into Long Timestep AI Weather Models
   - `Leads`: **Raúl Moreno**, March 6
   - `Paper`: Martin et al., 2025: <https://doi.org/10.48550/arXiv.2512.22814>
