@@ -20,6 +20,10 @@ This is the collection of all the MLJC meeting materials.
 
 ### Spring 2026
 
+- Physically Consistent Global Atmospheric Data Assimilation with Machine Learning in Latent Space
+  - `Leads`: **Andy Liu**, April 6
+  - `Paper`: Fan et al. (2026): <https://www.science.org/doi/10.1126/sciadv.aea4248>
+  - `Slides` by **Eliot Kim**: [Physically Consistent Global Atmospheric Data Assimilation with Machine Learning in Latent Space](<Spring 2026/Physically Consistent Global Atmospheric Data Assimilation with Machine Learning in Latent Space.pdf>)
 - An Open-Box Physics-Based Neural Network for Modeling Shortwave Radiative Transfer
   - `Leads`: **William Yik**, April 4
   - `Paper`: Schneiderman (2025): <https://doi.org/10.1175/AIES-D-24-0099.1>
