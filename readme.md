@@ -27,6 +27,7 @@ This is the collection of all the MLJC meeting materials.
 - An Open-Box Physics-Based Neural Network for Modeling Shortwave Radiative Transfer
   - `Leads`: **William Yik**, April 4
   - `Paper`: Schneiderman (2025): <https://doi.org/10.1175/AIES-D-24-0099.1>
+  - `Slides`: [An Open-Box Physics-Based Neural Network for Modeling Shortwave Radiative Transfer](<Spring 2026/An Open-Box Physics-Based Neural Network for Modeling Shortwave Radiative Transfer.pdf>)
 
 ### Winter 2026
 
