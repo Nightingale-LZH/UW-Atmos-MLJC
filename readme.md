@@ -20,8 +20,13 @@ This is the collection of all the MLJC meeting materials.
 
 ### Spring 2026
 
+- An Open-Box Physics-Based Neural Network for Modeling Shortwave Radiative Transfer
+  - `Leads`: **Celeste Tong**, April 30
+  - `Paper`: Sharma and Greenberg (2025): <https://doi.org/10.1029/2024MS004279>
+    - Supplement Paper: 
+      - ML cloud microphysics, Lamb et al. (2025): <https://doi.org/10.1029/2025MS005341>
 - Physically Consistent Global Atmospheric Data Assimilation with Machine Learning in Latent Space
-  - `Leads`: **Andy Liu**, April 6
+  - `Leads`: **Andy Liu**, April 16
   - `Paper`: Fan et al. (2026): <https://www.science.org/doi/10.1126/sciadv.aea4248>
   - `Slides` by **Eliot Kim**: [Physically Consistent Global Atmospheric Data Assimilation with Machine Learning in Latent Space](<Spring 2026/Physically Consistent Global Atmospheric Data Assimilation with Machine Learning in Latent Space.pdf>)
 - An Open-Box Physics-Based Neural Network for Modeling Shortwave Radiative Transfer
