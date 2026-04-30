@@ -20,11 +20,12 @@ This is the collection of all the MLJC meeting materials.
 
 ### Spring 2026
 
-- An Open-Box Physics-Based Neural Network for Modeling Shortwave Radiative Transfer
+- SuperdropNet: A Stable and Accurate Machine Learning Proxy for Droplet-Based Cloud Microphysics
   - `Leads`: **Celeste Tong**, April 30
   - `Paper`: Sharma and Greenberg (2025): <https://doi.org/10.1029/2024MS004279>
     - Supplement Paper: 
       - ML cloud microphysics, Lamb et al. (2025): <https://doi.org/10.1029/2025MS005341>
+  - `Slides`: [An Open-Box Physics-Based Neural Network for Modeling Shortwave Radiative Transfer](<Spring 2026/SuperdropNet, A Stable and Accurate Machine Learning Proxy for Droplet-Based Cloud Microphysics.pdf>)
 - Physically Consistent Global Atmospheric Data Assimilation with Machine Learning in Latent Space
   - `Leads`: **Andy Liu**, April 16
   - `Paper`: Fan et al. (2026): <https://www.science.org/doi/10.1126/sciadv.aea4248>
