@@ -211,6 +211,12 @@ This is the collection of all the MLJC meeting materials.
 
 ## Watch Party
 
+### Spring 2026
+- ML Training and Gradient Descent Algorithm Visualization
+  - `Leads`: **All**, May 14
+  - `Video`:
+    - The Misconception that Almost Stopped AI [How Models Learn Part 1]: <https://youtu.be/NrO20Jb-hy0?si=WlwNhZB7B4_ecSjr>
+
 ### Winter 2025
 
 - Score-Based Generative Model
