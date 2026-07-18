@@ -49,6 +49,8 @@ Please email Andy any suggestions.
 - [Evaluating machine learning weather models for data assimilation: fundamental limitations in tangent linear and adjoint properties](<https://onlinelibrary.wiley.com/doi/abs/10.1029/2025GL119402>)
 - [Deep Learning Parameterization of Vertical Wind Velocity Variability via Constrained Adversarial Training](<https://doi.org/10.1175/AIES-D-23-0025.1>)
 - [Deep learning representation of the aerosol size distribution](<https://doi.org/10.5194/gmd-19-2437-2026>)
+- [Probabilistic Precipitation Nowcasting with Rectified Flow Transformers](<https://arxiv.org/abs/2605.31204>)
+- [Short-Term Hourly Weather Forecasting Using PredRNN With Image Preprocessing](<https://doi.org/10.1029/2026JH001291>)
 
 Please email Andy any suggestions.
 
