@@ -9,7 +9,7 @@ This is the collection of all the MLJC meeting materials.
 ***
 
 
-| [MLJC Meetings](./readme.md) | [Sort by Topics](./sort_by_topics.md) | [**Resources**](./recources.md) |
+| [MLJC Meetings](./readme.md) | [**Resources**](./recources.md) |
 
 ***
 
@@ -25,6 +25,7 @@ This is the collection of all the MLJC meeting materials.
   - This tutorial is written in R, but they provide many mathematical derivations of basic ML building blocks. No Neural Networks. 
 - [Neural Network Playground](<https://playground.tensorflow.org/>)
   - Experimenting with NN classifications.
+- [BST236 Computing Class from Harvard](<https://junwei-lu.github.io/bst236/chapter_syllabus/>)
 
 ### Specific Topics
 
