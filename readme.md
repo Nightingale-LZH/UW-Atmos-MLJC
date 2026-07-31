@@ -8,7 +8,7 @@ This is the collection of all the MLJC meeting materials.
 
 ***
 
-| [**MLJC Meetings**](./readme.md) | [Sort by Topics](./sort_by_topics.md) | [Resources](./recources.md) |
+| [**MLJC Meetings**](./readme.md) | [Resources](./recources.md) |
 
 ***
 
@@ -178,10 +178,21 @@ This is the collection of all the MLJC meeting materials.
 
 ## Workshops / Book Reading
 
+### Summer 2026
+
+- Flow Matching and Rectified Flow
+  - `Leads`: **Andy Liu**, July 31
+  - `Repo`: <https://github.com/Nightingale-LZH/mljc-flowmatching-workshop/tree/main>
+  - `Slides`: [2026-07-31_FlowMatching.pdf](<Summer 2026/2026-07-31_FlowMatching.pdf>)
+  - Other Resources
+    - Chen et al. 2019, Foundational Paper, Neural ODE: <https://arxiv.org/pdf/1806.07366>
+    - Liu et al. 2022, Rectified Flow: <https://arxiv.org/pdf/2209.03003>
+    - Lipman et al. 2023, Flow Matching: <https://arxiv.org/pdf/2210.02747>
+
 ### Summer 2025
 
 - Transformer
-  - `Leads`: **Elliot Kim, Andy Liu**, June 27
+  - `Leads`: **Elliot Kim, Andy Liu**, July 27
   - `Repo`: <https://github.com/eliotjkim/mljc-transformers-workshop>
   - `Slides`: [2025-06-27_Workshop_Transformers.pdf](<Summer 2025/2025-06-27_Workshop_Transformers.pdf>)
   - Other Resources
