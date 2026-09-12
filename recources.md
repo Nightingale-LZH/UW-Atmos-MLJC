@@ -26,6 +26,7 @@ This is the collection of all the MLJC meeting materials.
 - [Neural Network Playground](<https://playground.tensorflow.org/>)
   - Experimenting with NN classifications.
 - [BST236 Computing Class from Harvard](<https://junwei-lu.github.io/bst236/chapter_syllabus/>)
+- [Zarr Introduction](<https://open.fused.io/mjyttte444gnh4sye2bzjgd5f4?step=0>)
 
 ### Specific Topics
 
