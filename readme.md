@@ -188,6 +188,15 @@ This is the collection of all the MLJC meeting materials.
     - Chen et al. 2019, Foundational Paper, Neural ODE: <https://arxiv.org/pdf/1806.07366>
     - Liu et al. 2022, Rectified Flow: <https://arxiv.org/pdf/2209.03003>
     - Lipman et al. 2023, Flow Matching: <https://arxiv.org/pdf/2210.02747>
+- Obs-to-obs weather prediction, Zeus, and Arraylake 
+  - `Leads`: **August Posch**, September 11
+  - `Slides`: [2026-09-11_Obs-to-obs weather prediction, Zeus, and Arraylake](<Summer 2026/2026-09-11_Obs-to-obs weather prediction, Zeus, and Arraylake.pdf>)
+  - `Repo`: 
+    - Zarr Intro: <https://open.fused.io/mjyttte444gnh4sye2bzjgd5f4?step=0>
+    - Colab: <https://colab.research.google.com/drive/1ToN2i35epQSDGVf4Z1Pm57RvlkWnhizy?usp=sharing>
+  - Other Resources:
+    - Earthmover Marketplace Dataset: <https://app.earthmover.io/marketplace/6a0f68409ee79500fd510c3d>
+    - ERA5: <https://app.earthmover.io/marketplace/6a19bcfe9aa6e97720a2fad2>
 
 ### Summer 2025
 
