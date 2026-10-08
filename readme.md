@@ -22,9 +22,10 @@ This is the collection of all the MLJC meeting materials.
 
 - Improving Radar-Based Precipitation Nowcasts with Machine Learning Using an Approach Based on Random Forest
   - `Leads`: **Andy Liu**, October 8
-  - `Paper`: Mao and Sortebery: <https://doi.org/10.1175/WAF-D-20-0080.1>
-  - Supplement Paper: 
-    - Forecast Evaluation Metrics: Roebber 2009: <https://doi.org/10.1175/2008WAF2222159.1>
+  - `Paper`: Mao and Sortebery (2020): <https://doi.org/10.1175/WAF-D-20-0080.1>
+  - Supplement Paper:
+    - Forecast Evaluation Metrics: Roebber (2009): <https://doi.org/10.1175/2008WAF2222159.1>
+  - `Slides`: [Improving Radar-Based Precipitation Nowcasts with Machine Learning Using an Approach Based on Random Forest](<Autumn 2026/Improving Radar-Based Precipitation Nowcasts with Machine Learning Using an Approach Based on Random Forest.pdf>)
 
 ### Spring 2026
 

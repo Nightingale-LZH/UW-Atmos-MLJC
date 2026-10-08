@@ -17,6 +17,31 @@ This is the collection of all the MLJC meeting materials.
 
 [Department of Atmospheric and Climate Science](<https://atmos.uw.edu>) (Just in case you need it)
 
+### Topics People Interested
+
+- Favorite ML topics:
+  - Math behind ML (linalg, stats, theory) x5
+  - Satellite x2, Observations
+  - Linear Systems, DMD
+  - Operational forecast
+  - Data Assimilation
+  - Emulator
+  - Explainable AI
+  - ML for improving science, Capability of ML model (speed, backprop)
+  - Generative model
+  - NOT math
+  - NOT training
+- ML topics people wish to know more about:
+  - Generative model x2
+  - Climate and AI x2
+  - ML methods x2
+  - Benchmarking (evaluation) x3, Uncertainty quantification
+  - Process/Dynamics emulation
+  - Reduced Order Models
+  - Sampling
+  - PDE problems
+  - NOT ML Architecture
+
 ### Tutorial
 
 - [A Recipe for Training Neural Networks](<https://karpathy.github.io/2019/04/25/recipe/>)
