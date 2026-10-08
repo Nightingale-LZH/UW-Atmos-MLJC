@@ -18,6 +18,14 @@ This is the collection of all the MLJC meeting materials.
 
 ## Paper Reviews
 
+### Autumn 2026
+
+- Improving Radar-Based Precipitation Nowcasts with Machine Learning Using an Approach Based on Random Forest
+  - `Leads`: **Andy Liu**, October 8
+  - `Paper`: Mao and Sortebery: <https://doi.org/10.1175/WAF-D-20-0080.1>
+  - Supplement Paper: 
+    - Forecast Evaluation Metrics: Roebber 2009: <https://doi.org/10.1175/2008WAF2222159.1>
+
 ### Spring 2026
 
 - SuperdropNet: A Stable and Accurate Machine Learning Proxy for Droplet-Based Cloud Microphysics
@@ -25,7 +33,7 @@ This is the collection of all the MLJC meeting materials.
   - `Paper`: Sharma and Greenberg (2025): <https://doi.org/10.1029/2024MS004279>
     - Supplement Paper: 
       - ML cloud microphysics, Lamb et al. (2025): <https://doi.org/10.1029/2025MS005341>
-  - `Slides`: [An Open-Box Physics-Based Neural Network for Modeling Shortwave Radiative Transfer](<Spring 2026/SuperdropNet, A Stable and Accurate Machine Learning Proxy for Droplet-Based Cloud Microphysics.pdf>)
+  - `Slides`: [SuperdropNet, A Stable and Accurate Machine Learning Proxy for Droplet-Based Cloud Microphysics](<Spring 2026/SuperdropNet, A Stable and Accurate Machine Learning Proxy for Droplet-Based Cloud Microphysics.pdf>)
 - Physically Consistent Global Atmospheric Data Assimilation with Machine Learning in Latent Space
   - `Leads`: **Andy Liu**, April 16
   - `Paper`: Fan et al. (2026): <https://www.science.org/doi/10.1126/sciadv.aea4248>
