@@ -68,7 +68,7 @@ This is the collection of all the MLJC meeting materials.
   - [Learn](<https://www.tensorflow.org/learn>)
   - [Python Docs](<https://www.tensorflow.org/api_docs/python/tf>)
 
-Please email Andy any suggestions.
+Please email Andy and Yi any suggestions.
 
 ## Paper for Future Meetings
 
@@ -79,5 +79,5 @@ Please email Andy any suggestions.
 - [Probabilistic Precipitation Nowcasting with Rectified Flow Transformers](<https://arxiv.org/abs/2605.31204>)
 - [Short-Term Hourly Weather Forecasting Using PredRNN With Image Preprocessing](<https://doi.org/10.1029/2026JH001291>)
 
-Please email Andy any suggestions.
+Please email Andy and Yi any suggestions.
 
