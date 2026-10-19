@@ -20,6 +20,11 @@ This is the collection of all the MLJC meeting materials.
 
 ### Autumn 2026
 
+- AIMIP Phase 1: systematic evaluations of AI weather and climate
+models
+  - `Leads`: **Anna Dodson**, October 22
+  - `Paper`: Henn et al. (2026): <https://arxiv.org/pdf/2605.06944>
+    - Also from AI2 website: <https://allenai.org/blog/aimip>
 - Improving Radar-Based Precipitation Nowcasts with Machine Learning Using an Approach Based on Random Forest
   - `Leads`: **Andy Liu**, October 8
   - `Paper`: Mao and Sortebery (2020): <https://doi.org/10.1175/WAF-D-20-0080.1>
