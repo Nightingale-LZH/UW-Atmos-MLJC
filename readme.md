@@ -23,6 +23,7 @@ This is the collection of all the MLJC meeting materials.
 - WeatherNext 3: Increasing resolution and performance of global weather models with raw observations
   - `Leads`: **August Posch**, November 5
   - `Paper`: Rasp et al. (2026): <https://arxiv.org/pdf/2609.03582>
+  - `Slides`: [WeatherNext 3](<Autumn 2026/Posch_MLJC_Rasp2026.pdf>)
 - AIMIP Phase 1: systematic evaluations of AI weather and climate models
   - `Leads`: **Anna Dodson**, October 22
   - `Paper`: Henn et al. (2026): <https://arxiv.org/pdf/2605.06944>
