@@ -20,6 +20,9 @@ This is the collection of all the MLJC meeting materials.
 
 ### Autumn 2026
 
+- The most cited paper of the century is a brilliant hack
+  - `Leads`: Watch Party, November 19
+  - `Video`: Welch Labs (2026): <https://www.youtube.com/watch?v=QgH9sr7G13Q>
 - WeatherNext 3: Increasing resolution and performance of global weather models with raw observations
   - `Leads`: **August Posch**, November 5
   - `Paper`: Rasp et al. (2026): <https://arxiv.org/pdf/2609.03582>
