@@ -19,6 +19,7 @@ This is the collection of all the MLJC meeting materials.
 ## Paper Reviews
 
 ### Autumn 2026
+
 - The most cited paper of the century is a brilliant hack
   - `Leads`: Watch Party, November 19
   - `Video`: Welch Labs (2026): <https://www.youtube.com/watch?v=QgH9sr7G13Q>
